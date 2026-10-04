@@ -1,0 +1,94 @@
+---
+booktitle: Proceedings of the 33rd Conference on Uncertainty in Artificial Intelligence
+shortname: UAI
+year: '2017'
+start: &1 2017-08-11
+end: 2017-08-15
+conference_number: '33'
+volume: R15
+published: 2026-10-04
+firstpublished: 2017-08-11
+layout: proceedings
+series: Proceedings of Machine Learning Research
+publisher: PMLR
+issn: 2640-3498
+id: UAI-2017
+month: 0
+cycles: false
+bibtex_editor: Elidan, Gal and Kersting, Kristian
+editor:
+- given: Gal
+  family: Elidan
+- given: Kristian
+  family: Kersting
+title: Proceedings of Machine Learning Research
+description: |
+  Proceedings of the 33rd Conference on Uncertainty in Artificial Intelligence
+    Held in Sydney, Australia on 11-15 August 2017
+
+  Published as Reissue 15 by the Proceedings of Machine Learning Research on 04 October 2026.
+
+  Volume Edited by:
+    Gal Elidan
+    Kristian Kersting
+
+  Series Editors:
+    Tegan Emerson
+    Hoel Kervadec
+    Neil D. Lawrence
+date_str: 11--15 Aug
+url: https://proceedings.mlr.press
+author:
+  name: PMLR
+baseurl: "/r15"
+twitter_username: MLResearchPress
+github_username: mlresearch
+markdown: kramdown
+exclude:
+- README.md
+- Gemfile
+- ".gitignore"
+plugins:
+- jekyll-feed
+- jekyll-seo-tag
+- jekyll-remote-theme
+remote_theme: mlresearch/jekyll-theme
+style: pmlr
+permalink: "/:title.html"
+ghub:
+  edit: true
+  repository: r15
+display:
+  copy_button:
+    bibtex: true
+    endnote: true
+    apa: true
+  comments: false
+volume_type: Reissue
+volume_dir: r15
+email: ''
+conference:
+  name: Uncertainty in Artificial Intelligence
+  url: https://www.auai.org/uai2017/
+  location: Sydney, Australia
+  dates:
+  - *1
+  - 2017-08-12
+  - 2017-08-13
+  - 2017-08-14
+  - 2017-08-15
+analytics:
+  google:
+    tracking_id: UA-92432422-1
+link_visibility:
+  openreview: true
+  pdf: true
+  supplementary: true
+  software: true
+  video: true
+  arxiv: true
+  doi: true
+  website: true
+orig_bibfile: uai2017_clean.bib
+# Site settings
+# Original source:  uai2017_clean.bib
