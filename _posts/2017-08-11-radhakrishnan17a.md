@@ -1,17 +1,16 @@
 ---
 abstract: Two directed acyclic graphs (DAGs) are called Markov equivalent if and only
-  if they have the same underlying undirected graph (i.e. skele- ton) and the same
+  if they have the same underlying undirected graph (i.e. skeleton) and the same
   set of immoralities. When using observational data alone and typical identifiability
-  assumptions, such as faithful- ness, a DAG model can only be determined up to Markov
-  equivalence. Therefore, it is de- sirable to understand the size and number of Markov
-  equivalence classes (MECs) combina- torially. In this paper, we address this enu-
-  merative question using a pair of generating functions that encode the number and
+  assumptions, such as faithfulness, a DAG model can only be determined up to Markov
+  equivalence. Therefore, it is desirable to understand the size and number of Markov
+  equivalence classes (MECs) combinatorially. In this paper, we address this enumerative question using a pair of generating functions that encode the number and
   size of MECs on a skeleton G, and in doing so we connect this problem to classical
-  problems in combinatorial optimization. The first generat- ing function is a graph
+  problems in combinatorial optimization. The first generating function is a graph
   polynomial that counts the number of MECs on G by their number of immoralities.
-  Using connections to the inde- pendent set problem, we show that computing a DAG
-  on G with the maximum possible num- ber of immoralities is NP-hard. The second generating
-  function counts the MECs on G ac- cording to their size. Via computer enumera- tion,
+  Using connections to the independent set problem, we show that computing a DAG
+  on G with the maximum possible number of immoralities is NP-hard. The second generating
+  function counts the MECs on G according to their size. Via computer enumeration,
   we show that this generating function is distinct for every connected graph on p
   nodes for all p $\leq$10.
 title: Counting Markov Equivalence Classes by Number of Immoralities

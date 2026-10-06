@@ -1,16 +1,14 @@
 ---
 abstract: 'Complex systems can be modelled at various levels of detail. Ideally, causal
-  models of the same system should be consistent with one an- other in the sense that
-  they agree in their pre- dictions of the effects of interventions. We for- malise
-  this notion of consistency in the case of Structural Equation Models (SEMs) by intro-
-  ducing exact transformations between SEMs. This provides a general language to consider,
+  models of the same system should be consistent with one another in the sense that
+  they agree in their predictions of the effects of interventions. We formalise
+  this notion of consistency in the case of Structural Equation Models (SEMs) by introducing exact transformations between SEMs. This provides a general language to consider,
   for instance, the different levels of description in the following three scenarios:
   (a) models with large numbers of variables versus models in which the ‘irrelevant’
   or unobservable variables have been marginalised out; (b) micro-level models versus
-  macro-level models in which the macro- variables are aggregate features of the micro-
-  variables; (c) dynamical time series models ver- sus models of their stationary
-  behaviour. Our analysis stresses the importance of well speci- fied interventions
-  in the causal modelling pro- cess and sheds light on the interpretation of cyclic
+  macro-level models in which the macrovariables are aggregate features of the microvariables; (c) dynamical time series models versus models of their stationary
+  behaviour. Our analysis stresses the importance of well specified interventions
+  in the causal modelling process and sheds light on the interpretation of cyclic
   SEMs.'
 title: Causal Consistency of Structural Equation Models
 year: '2017'

@@ -1,11 +1,9 @@
 ---
 abstract: I-DIDs suffer disproportionately from the curse of dimensionality dominated
-  by the exponential growth in the number of models over time. Previ- ous methods
-  for scaling I-DIDs identify notions of equivalence between models, such as behav-
-  ioral equivalence (BE). But, this requires that the models be solved first. Also,
-  model space com- pression across agents has not been previously investigated. We
-  present a way to compress the space of models across agents, possibly with dif-
-  ferent frames, and do so without having to solve them first, using stochastic bisimulation.
+  by the exponential growth in the number of models over time. Previous methods
+  for scaling I-DIDs identify notions of equivalence between models, such as behavioral equivalence (BE). But, this requires that the models be solved first. Also,
+  model space compression across agents has not been previously investigated. We
+  present a way to compress the space of models across agents, possibly with different frames, and do so without having to solve them first, using stochastic bisimulation.
   We test our approach on two non-cooperative partially observable domains with up
   to 20 agents.
 title: Robust Model Equivalence using Stochastic Bisimulation for N-Agent Interactive
