@@ -1,7 +1,7 @@
 ---
 abstract: 'Complex systems can be modelled at various levels of detail. Ideally, causal
   models of the same system should be consistent with one another in the sense that
-  they agree in their predictions of the effects of interventions. We formalise
+  they agree in their predictions of the effects of interventions. We for malise
   this notion of consistency in the case of Structural Equation Models (SEMs) by introducing exact transformations between SEMs. This provides a general language to consider,
   for instance, the different levels of description in the following three scenarios:
   (a) models with large numbers of variables versus models in which the ‘irrelevant’
