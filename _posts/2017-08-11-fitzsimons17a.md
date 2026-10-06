@@ -1,16 +1,16 @@
 ---
-abstract: The log determinant of a kernel matrix ap- pears in a variety of machine
-  learning prob- lems, ranging from determinantal point pro- cesses and generalized
+abstract: The log determinant of a kernel matrix appears in a variety of machine
+  learning problems, ranging from determinantal point processes and generalized
   Markov random fields, through to the training of Gaussian processes. Exact calculation
-  of this term is often in- tractable when the size of the kernel matrix ex- ceeds
-  a few thousands. In the spirit of proba- bilistic numerics, we reinterpret the problem
+  of this term is often intractable when the size of the kernel matrix exceeds
+  a few thousands. In the spirit of probabilistic numerics, we reinterpret the problem
   of computing the log determinant as a Bayesian inference problem. In particular,
-  we com- bine prior knowledge in the form of bounds from matrix theory and evidence
-  derived from stochastic trace estimation to obtain proba- bilistic estimates for
-  the log determinant and its associated uncertainty within a given com- putational
-  budget. Beyond its novelty and the- oretic appeal, the performance of our proposal
+  we combine prior knowledge in the form of bounds from matrix theory and evidence
+  derived from stochastic trace estimation to obtain probabilistic estimates for
+  the log determinant and its associated uncertainty within a given computational
+  budget. Beyond its novelty and theoretic appeal, the performance of our proposal
   is competitive with state-of-the-art approaches to approximating the log determinant,
-  while also quantifying the uncertainty due to budget- constrained evidence.
+  while also quantifying the uncertainty due to budget-constrained evidence.
 title: Bayesian Inference of Log Determinants
 year: '2017'
 layout: inproceedings

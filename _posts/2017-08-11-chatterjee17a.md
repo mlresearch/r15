@@ -1,13 +1,13 @@
 ---
-abstract: We study a variant of the stochastic multi- armed bandit problem where the
-  set of avail- able arms varies arbitrarily with time (also known as the sleeping
+abstract: We study a variant of the stochastic multi-armed bandit problem where the
+  set of available arms varies arbitrarily with time (also known as the sleeping
   bandit problem). We focus on the Thompson Sampling algorithm and consider a regret
-  notion defined with re- spect to the best available arm. Our main re- sult is an
+  notion defined with respect to the best available arm. Our main result is an
   O(log T) regret bound for Thompson Sampling, which generalizes a similar bound known
   for this algorithm from the classical bandit setting. Our bound also matches (up
   to constants) the best-known lower bound for the sleeping bandit problem. We show
-  via simu- lations that Thompson Sampling outperforms the UCB-style AUER algorithm
-  for the sleep- ing bandit problem.
+  via simulations that Thompson Sampling outperforms the UCB-style AUER algorithm
+  for the sleeping bandit problem.
 title: Analysis of Thompson Sampling for Stochastic Sleeping Bandits
 year: '2017'
 layout: inproceedings
