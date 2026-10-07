@@ -2,7 +2,7 @@
 booktitle: Proceedings of the 33rd Conference on Uncertainty in Artificial Intelligence
 shortname: UAI
 year: '2017'
-start: &1 2017-08-11
+start: 2017-08-11
 end: 2017-08-15
 conference_number: '33'
 volume: R15
@@ -72,7 +72,7 @@ conference:
   url: https://www.auai.org/uai2017/
   location: Sydney, Australia
   dates:
-  - *1
+  - 2017-08-11
   - 2017-08-12
   - 2017-08-13
   - 2017-08-14
